@@ -1,11 +1,12 @@
 capsule-info {
-  display-name (RSS Template)
-  dispatch-name (RSS Template)
-  developer-name (Final Boss)
+  display-name (Make Tech Easier)
+  dispatch-name (Make Tech Easier)
+  developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description (RSS template capsule)
+  description (Make Tech Easier is a reputable tech site with strong focus on computer tutorials, how-to, hacks and fixes. Our motto is to “Uncomplicating the complicated, making life easier“. Founded in 2007 by Damien Oh, the site was started as a mean to document our learning and share our knowledge to others. It has since then grew to a popular site with a team of 20 writers. In this blog, you will learn tons of computer tips and tricks that will change you to a computer geek (even without you knowing it). Topics covered here include troubleshooting your computer, optimizing operating system performance (be it Windows, Mac or Linux), simplifying tasks, software review and plenty of cool stuff. If you think that computer technology is only for geeks, then we aspire to change your thinking. All content is sourced from VUX.World public RSS Feed. Sources: http://feeds.maketecheasier.com/MakeTechEasier)
   search-keywords {
     keyword (News)
     keyword (RSS)
+    keyword (tutorial)
   }
 }
