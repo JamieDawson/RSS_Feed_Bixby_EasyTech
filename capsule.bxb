@@ -1,5 +1,5 @@
 capsule {
-  id (playground.maketecheasier)
+  id (playground.make_tech_easier)
   version (1.0.1)
   format (3)
   targets {
@@ -14,8 +14,7 @@ capsule {
     use-input-views-for-selection-list-detail
   }
   store-sections {
-    section (NewsAndMagazines)
-    section (Sports)
+    section (EducationAndReference)
   }
   capsule-imports {
     import (viv.image) { as (image) version (2.12.10) }

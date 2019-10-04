@@ -60,7 +60,7 @@ function buildSharedtags(channel, i, search) {
 	if (typeof channel.item[i].description == 'string'
 		&& channel.item[i].description
 		&& channel.item[i].description != 'null')
-		ret.description = removeHTML(channel.item[i].description)
+		ret.description = removeHTML(channel.item[i].description).replace("Read more", "(Click link below to read full story)")
 	else
 		ret.description = "No description"
 	if (channel.item[i]['itunes:summary'])
