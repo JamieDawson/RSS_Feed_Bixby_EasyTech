@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (Easy Tech)
   developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description (Easy Tech is a Capsule that provides articles that provide fixes and tutorials for all things related to  technology. All content is sourced from the maketecheasier.com public RSS Feed. Sources: http://feeds.maketecheasier.com/MakeTechEasier)
+description (Easy Tech is a Capsule that allows users to read from a feed that provides tutorials for computers. All content is sourced from the maketecheasier.com public RSS Feed. Sources: http://feeds.maketecheasier.com/MakeTechEasier)
   search-keywords {
     keyword (Technology)
     keyword (RSS)
